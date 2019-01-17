@@ -1,0 +1,7 @@
+git init - crear repositorio
+git status - informa de cambios no añadidos
+git add * - añade archivos para el commit/push
+git branch - ver ramas
+git branch *nombre* - crear rama
+git checkout *id commit* - cambiar a version anterior
+git push --set-upstream *url* *rama* - sube el repositorio
